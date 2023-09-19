@@ -1,2 +1,17 @@
+ .container {
+            border-style: groove;
+            text-align: center;
+            background-color: burlywood;
+            padding: 20px;
+            margin: 10px;
+            color: darkred;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
 
-/* Your CSS Code here. */
+        a:active {
+            color: green;
+        }
+
+        a:hover {
+            color: red;
+        }
